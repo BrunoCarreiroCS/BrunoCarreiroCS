@@ -82,15 +82,6 @@ Aqui compartilho projetos acadêmicos, exercícios práticos, estudos em program
 
 ---
 
-## 📊 Linguagens mais usadas
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarreiroCS&layout=compact&theme=dracula)
-
-</div>
-
----
 
 ## 🔗 Vamos nos conectar?
 
