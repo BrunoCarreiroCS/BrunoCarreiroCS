@@ -82,21 +82,11 @@ Aqui compartilho projetos acadêmicos, exercícios práticos, estudos em program
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Linguagens mais usadas
 
 <div align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoCarreiroCS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" 
-    alt="GitHub Stats de Bruno Carreiro"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarreiroCS&layout=compact&theme=dracula&hide_border=true&langs_count=8" 
-    alt="Linguagens mais usadas por Bruno Carreiro"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarreiroCS&layout=compact&theme=dracula)
 
 </div>
 
