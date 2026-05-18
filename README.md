@@ -81,13 +81,14 @@ Aqui compartilho projetos acadêmicos, exercícios práticos, estudos em program
 - Criar produtos que façam diferença  
 
 ---
-## 📊 GitHub Readme Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCarreiroCS&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoCarreiroCS&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarreiroCS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoCarreiroCS&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoCarreiroCS&theme=tokyonight)
 
 </div>
 
