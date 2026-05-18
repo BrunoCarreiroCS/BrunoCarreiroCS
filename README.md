@@ -81,18 +81,18 @@ Aqui compartilho projetos acadêmicos, exercícios práticos, estudos em program
 - Criar produtos que façam diferença  
 
 ---
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens mais usadas & commits
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoCarreiroCS&theme=tokyonight)
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoCarreiroCS&theme=tokyonight" alt="Linguagens mais usadas em commits" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoCarreiroCS&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoCarreiroCS&theme=tokyonight)
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoCarreiroCS&theme=tokyonight&utcOffset=-3" alt="Horário mais produtivo" />
 
 </div>
 
 ---
+
 
 ## 🔗 Vamos nos conectar?
 
