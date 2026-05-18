@@ -81,7 +81,17 @@ Aqui compartilho projetos acadêmicos, exercícios práticos, estudos em program
 - Criar produtos que façam diferença  
 
 ---
+## 📊 GitHub Readme Stats
 
+<div align="center">
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCarreiroCS&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarreiroCS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
+
+---
 
 ## 🔗 Vamos nos conectar?
 
